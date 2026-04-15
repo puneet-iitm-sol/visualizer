@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python tests/test_parsers.py)",
+      "Bash(python tests/test_api.py)"
+    ]
+  }
+}
